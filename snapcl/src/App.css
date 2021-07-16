@@ -1,0 +1,27 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background: #fefc01;
+  height: 100vh;
+}
+
+.app__logo {
+  object-fit: contain;
+  height: 100px;
+}
+
+.app__body {
+  background: url("https://i.kym-cdn.com/photos/images/facebook/001/152/403/c3a.png")
+    no-repeat center;
+  background-size: contain;
+  height: 380px;
+  width: 250px;
+  padding: 89px;
+}
+
+.app___bodybackground {
+  background-color: white;
+  height: 400px;
+}
