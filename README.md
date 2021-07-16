@@ -36,12 +36,18 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
 
+![ss4](https://user-images.githubusercontent.com/72884585/125924600-3dd267b1-431d-46b7-bb78-ccb15d0e93d1.png)
+![ss6](https://user-images.githubusercontent.com/72884585/125924611-150603e6-e5f3-4fff-9536-23c80f0a312e.png)
+![ss7](https://user-images.githubusercontent.com/72884585/125924631-cbbb4994-84fb-46a1-83a2-120c514195ad.png)
+![ss8](https://user-images.githubusercontent.com/72884585/125924645-2967761d-1d3e-417c-ad68-f6927a71b254.png)
+
+
+
+
+
 
 ###Deployment
 https://snapchatcl333.web.app
-
-
-###Deployment
 
 
 
