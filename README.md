@@ -45,12 +45,4 @@ https://snapchatcl333.web.app
 
 
 
-![ss2](https://user-images.githubusercontent.com/72884585/125921494-22b5529d-699a-4c3f-ba76-26d3d9459b9a.png)
-![ss3](https://user-images.githubusercontent.com/72884585/125921522-e92eb1c6-7e6a-4cfb-a985-41f2d978d7dd.png)
 
-
-
-
-
-### Deployment
-https://slacky333.web.app/
